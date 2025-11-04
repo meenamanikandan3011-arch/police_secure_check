@@ -5,7 +5,7 @@ It also includes a Streamlit web app connected to a MySQL (TiDB Cloud) database 
 
 ⚙️ Features
 
-Step 1: Python for Data Processing/Cleaning
+Step 1: Python and pandas for Data Processing/Cleaning
 Removed missing values and irrelevant columns
 Handled categorical and numeric data properly
 
